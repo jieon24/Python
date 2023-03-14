@@ -20,4 +20,4 @@
 <img src="3.jpg" width="400" height="400"></img> <br>
 
 #### 2. 뜨르들로
-<img src="2.jpg" width="400" height="400"></img> <br>
+<img src="4.jpg" width="400" height="400"></img> <br>
