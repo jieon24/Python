@@ -18,3 +18,6 @@
 체코의 대표적인 음식 2가지를 소개하겠습니다.
 #### 1. 스비치코바
 <img src="3.jpg" width="400" height="400"></img> <br>
+
+#### 2. 뜨르들로
+<img src="2.jpg" width="400" height="400"></img> <br>
